@@ -2,6 +2,7 @@ Drowsy Driver Detection
 
 This project detects if a driver is feeling drowsy by monitoring their eyes in real-time using a webcam. If the eyes stay closed for too long, an alarm sound is played to alert the driver.
 
+
 🔧 What it uses
 
 Python
@@ -14,13 +15,10 @@ NumPy → for calculations
 
 Pygame → for the alarm sound
 
+
 ▶️ How to run
 
-Clone this repo:
-
-git clone https://github.com/your-username/drowsy-driver-detection.git
-cd drowsy-driver-detection
-
+Clone this repo
 
 Install the required libraries:
 
@@ -33,6 +31,7 @@ python drowsy_driver_detection.py
 
 
 Press Q to quit.
+
 
 🎯 Future ideas
 
